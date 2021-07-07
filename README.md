@@ -1,7 +1,7 @@
 <h2>Projeto focado no estudo de  HTML5 e CSS Flexbox 🛠️ </h2>
 
 
-<p>➡️Construido durante a realização do curso de CSS Flexbox da Origamid.</p>
+<h3>➡️Construido durante a realização do curso de CSS Flexbox da Origamid.</h3>
 <hr>
 <img src="img/flexblog.JPG"></img>
 <hr>
