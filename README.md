@@ -3,7 +3,7 @@
 
 <p>Construido durante a realização do curso de CSS Flexbox da Origamid.</p>
 
-<img src="img/flexblog.jpg"></img>
+<img src="img/flexblog.JPG"></img>
 
 <p>Projeto sem fins lucrativos, somente para aplicação de estudos.</p>
 
