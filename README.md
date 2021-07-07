@@ -1,10 +1,10 @@
-Projeto focado no estudo de  HTML5 e CSS Flexbox. 
+<h2>Projeto focado no estudo de  HTML5 e CSS Flexbox. </h2>
 
 
-Construido durante a realização do curso de CSS Flexbox da Origamid.
+<p>Construido durante a realização do curso de CSS Flexbox da Origamid.</p>
 
-<img src="img/flexblog.JPG" alt="Exemplo Flexblog"></img>
+<img src="img/flexblog.jpg"></img>
 
-Projeto sem fins lucrativos, somente para aplicação de estudos.
+<p>Projeto sem fins lucrativos, somente para aplicação de estudos.</p>
 
----João Vítor Carvalho---
+<strong>---João Vítor Carvalho---</strong>
