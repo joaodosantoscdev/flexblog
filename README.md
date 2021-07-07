@@ -8,5 +8,5 @@
 <p>Construído afim de facilitar a navegação de usuários em quaisquer plataformas, visando a responsívidade 📱 💻 🖥️</p>
 <br>
 <em>'Projeto sem fins lucrativos, somente para aplicação de estudos.' 📚</em>
-<br>
+<hr>
 <strong>---João Vítor Carvalho---</strong>
