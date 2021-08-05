@@ -13,19 +13,17 @@
 <img src="img/qualities.jpg"></img>
 <hr>
 <h3>Mobile 📱</h3>
-<div>
-  <style>
-    div {
-    display: flex;
-    }
-  </style>
-  <img src="img/header-mobile.jpg"></img>
-  <img src="img/header-img-mobile.jpg"></img>
-  <img src="img/boxes-mobile.jpg"></img>
-  <img src="img/products-mobile.jpg"></img>
-  <img src="img/qualities-mobile.jpg"></img>
-  <img src="img/footer-mobile.jpg"></img>
-</div>
+<img src="img/header-mobile.jpg"></img>
+<br>
+<img src="img/header-img-mobile.jpg"></img>
+<br>
+<img src="img/boxes-mobile.jpg"></img>
+<br>
+<img src="img/products-mobile.jpg"></img>
+<br>
+<img src="img/qualities-mobile.jpg"></img>
+<br>
+<img src="img/footer-mobile.jpg"></img>
 <hr>
 <h3>Overview</h3>
 <hr>
