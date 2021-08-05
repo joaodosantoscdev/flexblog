@@ -14,15 +14,10 @@
 <hr>
 <h3>Mobile 📱</h3>
 <img src="img/header-mobile.jpg"></img>
-<br>
 <img src="img/header-img-mobile.jpg"></img>
-<br>
 <img src="img/boxes-mobile.jpg"></img>
-<br>
 <img src="img/products-mobile.jpg"></img>
-<br>
 <img src="img/qualities-mobile.jpg"></img>
-<br>
 <img src="img/footer-mobile.jpg"></img>
 <hr>
 <h3>Overview</h3>
