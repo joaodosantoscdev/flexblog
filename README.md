@@ -25,7 +25,7 @@
 <br>
 <img src="img/footer-mobile.jpg"></img>
 <hr>
-<h3>Overview</h3>
+<h3>Overview ⮯</h3>
 <hr>
 <p>Developed with the purpose to apply my knowledges in CSS Flexbox, to create more responsive and enjoyable experience for the final user.   📱 💻 🖥️</p>
 <p>It's a one-page static website, with all the content being tottaly styleshed in CSS Flexbox.The main objective on this was to use all the properties available at this resource, alligned with a design concept, to apply and absorve praticly all the content during the lessons. 🧑‍💻</p>
