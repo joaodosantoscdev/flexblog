@@ -8,18 +8,22 @@
 <br>
 <img src="img/products.jpg"></img>
 <br>
-<img src="img/products-box-layout.jpg"></img>
+<img src="img/product-box-layout.jpg"></img>
 <br>
 <img src="img/qualities.jpg"></img>
 <hr>
 <h3>Mobile 📱</h3>
 <img src="img/header-mobile.jpg"></img>
 <br>
+<img src="img/header-img-mobile.jpg"></img>
+<br>
+<img src="img/boxes-mobile.jpg"></img>
+<br>
 <img src="img/products-mobile.jpg"></img>
 <br>
-<img src="img/products-bl-mobile.jpg"></img>
-<br>
 <img src="img/qualities-mobile.jpg"></img>
+<br>
+<img src="img/footer-mobile.jpg"></img>
 <hr>
 <h3>Overview</h3>
 <hr>
