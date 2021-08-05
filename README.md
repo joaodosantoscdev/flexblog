@@ -4,22 +4,22 @@
 <p>You can acess <a href="https://joaodosantoscdev.github.io/flexblog/flexblog" target="_blank" alt="flexblog">here</a>.</p>
 <hr>
 <h3>Desktop 🖥️</h3>
-<img src="img/flexblog/header.jpg"></img>
+<img src="img/header.jpg"></img>
 <br>
-<img src="img/flexblog/products.jpg"></img>
+<img src="img/products.jpg"></img>
 <br>
-<img src="img/flexblog/products-box-layout.jpg"></img>
+<img src="img/products-box-layout.jpg"></img>
 <br>
-<img src="img/flexblog/qualities.jpg"></img>
+<img src="img/qualities.jpg"></img>
 <hr>
 <h3>Mobile 📱</h3>
-<img src="img/flexblog/header-mobile.jpg"></img>
+<img src="img/header-mobile.jpg"></img>
 <br>
-<img src="img/flexblog/products-mobile.jpg"></img>
+<img src="img/products-mobile.jpg"></img>
 <br>
-<img src="img/flexblog/products-bl-mobile.jpg"></img>
+<img src="img/products-bl-mobile.jpg"></img>
 <br>
-<img src="img/flexblog/qualities-mobile.jpg"></img>
+<img src="img/qualities-mobile.jpg"></img>
 <hr>
 <h3>Overview</h3>
 <hr>
