@@ -28,6 +28,8 @@ img {
 }
 
 .superinfo-bg {
+    width: 100%;
+    position: fixed;
     background: #122ab2;
     color: #FFF;
 }
@@ -53,6 +55,9 @@ img {
 /* Menu */
 
 .menu-bg {
+    margin-top: 40px;
+    width: 100%;
+    position: fixed;
     background: #2c70ff;
 }
 
@@ -79,6 +84,7 @@ img {
 .menu-nav ul {
     display: flex;
     flex-wrap: wrap;
+    justify-items: space-around;
 }
 
 .menu-nav ul li a {
@@ -93,11 +99,21 @@ img {
 
 /* Introdução */
 
+.title {
+    max-width: 960px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    padding-top: 160px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
 .introducao {
+    
     font: normal bold 3em "Nunito", Helvetica, Sans-serif;
     line-height: 1;
-    max-width: 960px;
-    margin: 0 auto;
+    margin-top: 0 auto;
     padding: 10px 60px 10px 60px;
 
 }
